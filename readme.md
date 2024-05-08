@@ -1,11 +1,11 @@
-# Multi Agent Pathfinding for Large Agents
-### CMPT417 D100 Summer 2022 - Hang Ma
-**Gaelan O'Shea-McKay** - 
-301267831\
-**Hassan Shahid** - 301382353\
-**Bryan Wong** - 301381982
+# FindMyPath - Multi Agent Pathfinding for Large Agents
 
-This project contains multiple solvers for the Multi-Agent Path Finding problem with large size (2x2 and 3x3) agents.
+
+This project contains multiple solvers for the Multi-Agent Path Finding problem with large size (2x2 and 3x3) agents. Essentially, this means that the code in this repository allows the user to plan and visulize the movement of agents in such a manner that they find their way to their destinations without colliding with each other, while still taking as short of a path as possible.
+Additionally, agents can be of varying sizes, up to a size that takes up an area of 3x3 spaces on a grid.
+
+
+## Execution
 
 These solvers are implemented inside `code/code/mccbs.py` and can be invoked from the command line with:
 

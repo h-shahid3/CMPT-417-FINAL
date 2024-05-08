@@ -1,7 +1,7 @@
 # FindMyPath - Multi Agent Pathfinding for Large Agents
 
 
-This project contains multiple solvers for the Multi-Agent Path Finding problem with large size (2x2 and 3x3) agents. Essentially, this means that the code in this repository allows the user to plan and visulize the movement of agents in such a manner that they find their way to their destinations without colliding with each other, while still taking as short of a path as possible.
+This project contains multiple solvers for the Multi-Agent Path Finding problem with large size (2x2 and 3x3) agents. Essentially, this means that the code in this repository allows the user to plan and visualize the movement of agents in such a manner that they find their way to their destinations without colliding with each other, while still taking as short of a path as possible.
 Additionally, agents can be of varying sizes, up to a size that takes up an area of 3x3 spaces on a grid.
 
 
